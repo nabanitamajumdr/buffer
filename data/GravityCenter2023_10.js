@@ -1,0 +1,1 @@
+var json_GravityCenter2023_10 = {"type":"FeatureCollection","name":"GravityCenter2023_10","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"YEAR":"2023","POINT":"GRAVITY CENTER 2023"},"geometry":{"type":"Point","coordinates":[88.430000368217705,26.721623216143815]}}]}

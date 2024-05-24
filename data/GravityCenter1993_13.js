@@ -1,0 +1,1 @@
+var json_GravityCenter1993_13 = {"type":"FeatureCollection","name":"GravityCenter1993_13","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"YEAR":"1993","POINT":"GRAVITY CENTER 1993"},"geometry":{"type":"Point","coordinates":[88.42905419233692,26.720486377851021]}}]}
